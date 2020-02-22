@@ -1,0 +1,13 @@
+.vscode
+data/NLPCC2017-OpenDomainQA
+data/graph
+data/QAdata
+output/baseline
+visualization
+model/model_params
+msm
+*.json
+__pycache__
+server.py
+statistics.py
+.idea
