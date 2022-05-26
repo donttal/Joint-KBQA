@@ -47,7 +47,7 @@ s3transfer==0.3.2
 six==1.14.0
 tensorboard==1.13.1
 tensorboardX==2.0
-tensorflow==1.13.2
+tensorflow==2.7.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 torch==1.4.0
